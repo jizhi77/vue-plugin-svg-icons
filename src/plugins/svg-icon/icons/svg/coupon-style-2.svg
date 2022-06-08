@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="114px" viewBox="0 0 256 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M250,75.7246377 L250,96.7391304 C250,102.742226 245.13353,107.608696 239.130435,107.608696 L10.8695652,107.608696 C4.86647011,107.608696 -2.81754656e-15,102.742226 -3.55271368e-15,96.7391304 L-3.11799344e-15,75.7246377 C3.80196023,75.7246377 6.88405797,72.6425399 6.88405797,68.8405797 C6.88405797,65.0386195 3.80196023,61.9565217 1.77635684e-15,61.9565217 L-1.77635684e-15,10.8695652 C-2.51152396e-15,4.86647011 4.86647011,6.4318212e-15 10.8695652,5.32907052e-15 L239.130435,1.77635684e-15 C245.13353,6.73606158e-16 250,4.86647011 250,10.8695652 L250,61.9565217 C246.19804,61.9565217 243.115942,65.0386195 243.115942,68.8405797 C243.115942,72.6425399 246.19804,75.7246377 250,75.7246377 Z" id="path-1"></path>
+        <filter x="-2.0%" y="-3.7%" width="104.0%" height="109.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FC5D39" offset="0%"></stop>
+            <stop stop-color="#FF0050" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切片" transform="translate(-606.000000, -1083.000000)">
+            <g id="优惠券2-1" transform="translate(609.000000, 1086.000000)">
+                <g id="形状结合">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M7.24637681,69.0217391 L242.753623,69.0217391" id="直线-2" stroke="#FF0050" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="2.173913043478261"></path>
+                <rect id="矩形" fill="url(#linearGradient-3)" x="36.2318841" y="77.8985507" width="177.536232" height="23.1884058" rx="11.5942029"></rect>
+                <text id="点击领取" font-family="PingFangSC-Regular, PingFang SC" font-size="11.5942029" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="101.811594" y="93.5217391">点击领取</tspan>
+                </text>
+                <g id="编组" transform="translate(40.579710, 8.333333)">
+                    <text id="满20000使用" font-family="PingFangSC-Regular, PingFang SC" font-size="7.24637681" font-weight="normal" fill="#999999">
+                        <tspan x="125.362319" y="38.0724638">满20000使用</tspan>
+                    </text>
+                    <text id="06.07-06.23可用" font-family="PingFangSC-Regular, PingFang SC" font-size="7.24637681" font-weight="normal" fill="#999999">
+                        <tspan x="125.362319" y="48.2173913">06.07-06.23可用</tspan>
+                    </text>
+                    <text id="优惠券" font-family="PingFangSC-Semibold, PingFang SC" font-size="13.7681159" font-weight="500" fill="#FF0050">
+                        <tspan x="125.362319" y="25.8695652">优惠券</tspan>
+                    </text>
+                    <text id="￥" font-family="PingFangSC-Semibold, PingFang SC" font-size="13.7681159" font-weight="500" fill="#FF0050">
+                        <tspan x="0" y="30.2173913">￥</tspan>
+                    </text>
+                    <text id="2000" font-family="PingFangSC-Semibold, PingFang SC" font-size="43.4782609" font-weight="500" fill="#FF0050">
+                        <tspan x="13.7681159" y="46">2000</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

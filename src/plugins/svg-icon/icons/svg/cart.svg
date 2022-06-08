@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="38px" viewBox="0 0 40 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon/通用/购物车/白</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-54.000000, -82.000000)">
+            <g id="icon/通用/购物车/白" transform="translate(54.000000, 82.000000)">
+                <rect id="矩形-copy-35" fill="#000000" opacity="0" x="0" y="0" width="40" height="40"></rect>
+                <g id="分组-8-copy" transform="translate(1.333333, 5.000000)">
+                    <rect id="矩形-copy-28" stroke="#FF0050" stroke-width="2" x="1.66666667" y="6" width="29.6666667" height="19.6666667" rx="7.5"></rect>
+                    <rect id="矩形-copy-29" stroke="#FF0050" stroke-width="0.833333333" fill="#FF0050" x="6.91666667" y="13.4388083" width="19.1666667" height="1.16666667" rx="0.583333333"></rect>
+                    <rect id="矩形-copy-29复制" stroke="#FF0050" stroke-width="0.833333333" fill="#FF0050" x="6.91666667" y="17.4166667" width="19.1666667" height="1.16666667" rx="0.583333333"></rect>
+                    <path d="M31.2999892,11.6666667 L31.2999892,6.28205128 C31.2999892,2.81257016 33.5385654,0 36.2999892,0" id="路径-copy-12" stroke="#FF0050" stroke-width="2" stroke-linecap="round"></path>
+                    <circle id="椭圆形-copy-33" fill="#FF0050" cx="6.5" cy="30.8333333" r="2.5"></circle>
+                    <circle id="椭圆形-copy-34" fill="#FF0050" cx="26.5" cy="30.8333333" r="2.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

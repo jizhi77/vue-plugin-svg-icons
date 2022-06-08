@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="125px" viewBox="0 0 120 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>切片复制 32</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切片" transform="translate(-1193.000000, -357.000000)">
+            <g id="编组-3复制-3" transform="translate(1193.000000, 357.000000)">
+                <rect id="矩形" stroke="#FF0050" stroke-width="1.25" x="0.625" y="0.625" width="118.75" height="123.75" rx="2.5"></rect>
+                <rect id="矩形" fill="#FF0050" opacity="0.200000003" x="5" y="5" width="110" height="60"></rect>
+                <rect id="矩形复制-3" fill="#FF0050" opacity="0.049999997" x="5" y="70" width="110" height="7.5"></rect>
+                <rect id="矩形复制-6" fill="#FF0050" opacity="0.049999997" x="5" y="82.5" width="55" height="7.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

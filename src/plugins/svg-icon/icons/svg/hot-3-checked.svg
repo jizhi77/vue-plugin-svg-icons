@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="125px" viewBox="0 0 120 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>切片复制 30</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切片" transform="translate(-1337.000000, -183.000000)">
+            <g id="编组-2复制-4" transform="translate(1337.000000, 183.000000)">
+                <rect id="矩形" stroke="#FF0050" stroke-width="1.25" fill="#FFFFFF" x="0.625" y="0.625" width="118.75" height="123.75" rx="2.5"></rect>
+                <rect id="矩形复制-13" fill="#FF0050" opacity="0.200000003" x="42.9357798" y="5" width="35.2293578" height="40"></rect>
+                <rect id="矩形复制-37" fill="#FF0050" opacity="0.200000003" x="81" y="5" width="35.2293578" height="40"></rect>
+                <rect id="矩形复制-10" fill="#FF0050" opacity="0.200000003" x="3.30275229" y="5" width="35.2293578" height="40"></rect>
+                <text id="热区1" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FF0050">
+                    <tspan x="8.99" y="28">热区1</tspan>
+                </text>
+                <text id="热区2" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FF0050">
+                    <tspan x="47" y="28">热区2</tspan>
+                </text>
+                <text id="热区3" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FF0050">
+                    <tspan x="86" y="28">热区3</tspan>
+                </text>
+                <rect id="矩形复制-11" fill="#FF0050" opacity="0.049999997" x="3.30275229" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-15" fill="#FF0050" opacity="0.049999997" x="42.9357798" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-38" fill="#FF0050" opacity="0.049999997" x="81.4678899" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-12" fill="#FF0050" opacity="0.049999997" x="3.30275229" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-16" fill="#FF0050" opacity="0.049999997" x="42.5" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-39" fill="#FF0050" opacity="0.049999997" x="81.4678899" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-14" fill="#FF0050" opacity="0.049999997" x="3.30275229" y="70" width="35.2293578" height="12.5"></rect>
+                <rect id="矩形复制-17" fill="#FF0050" opacity="0.049999997" x="42.9357798" y="70" width="35.2293578" height="12.5"></rect>
+                <rect id="矩形复制-40" fill="#FF0050" opacity="0.049999997" x="81.4678899" y="70" width="35.2293578" height="12.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

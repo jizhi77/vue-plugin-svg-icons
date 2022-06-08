@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="125px" viewBox="0 0 121 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>切片复制 26</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切片" transform="translate(-905.000000, -183.000000)">
+            <g id="编组-2复制-6" transform="translate(905.000000, 183.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="120" height="125" rx="2.5"></rect>
+                <rect id="矩形复制-13" fill="#CCCCCC" x="63" y="5" width="52.5" height="52.5"></rect>
+                <rect id="矩形复制-10" fill="#CCCCCC" x="5" y="5" width="52.5" height="52.5"></rect>
+                <text id="热区1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="17.188" y="37">热区1</tspan>
+                </text>
+                <text id="热区2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="73.8" y="37">热区2</tspan>
+                </text>
+                <rect id="矩形复制-11" fill="#E4E4E4" x="5" y="62.5" width="52.5" height="7.5"></rect>
+                <rect id="矩形复制-15" fill="#E4E4E4" x="62.5" y="62.5" width="52.5" height="7.5"></rect>
+                <rect id="矩形复制-12" fill="#E4E4E4" x="5" y="78.75" width="26.25" height="7.5"></rect>
+                <rect id="矩形复制-16" fill="#E4E4E4" x="62.5" y="78.75" width="26.25" height="7.5"></rect>
+                <rect id="矩形复制-14" fill="#E4E4E4" x="5" y="93.75" width="52.5" height="16.25"></rect>
+                <rect id="矩形复制-17" fill="#E4E4E4" x="62.5" y="93.75" width="52.5" height="16.25"></rect>
+            </g>
+            <g id="编组-2复制" transform="translate(905.000000, 183.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="120" height="125" rx="2.5"></rect>
+                <rect id="矩形复制-13" fill="#CCCCCC" x="42.9357798" y="5" width="35.2293578" height="40"></rect>
+                <rect id="矩形复制-37" fill="#CCCCCC" x="81" y="5" width="35.2293578" height="40"></rect>
+                <rect id="矩形复制-10" fill="#CCCCCC" x="3.30275229" y="5" width="35.2293578" height="40"></rect>
+                <text id="热区1" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="8.99" y="28">热区1</tspan>
+                </text>
+                <text id="热区2" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="47" y="28">热区2</tspan>
+                </text>
+                <text id="热区3" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="86" y="28">热区3</tspan>
+                </text>
+                <rect id="矩形复制-11" fill="#E4E4E4" x="3.30275229" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-15" fill="#E4E4E4" x="42.9357798" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-38" fill="#E4E4E4" x="81.4678899" y="50" width="35.2293578" height="5"></rect>
+                <rect id="矩形复制-12" fill="#E4E4E4" x="3.30275229" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-16" fill="#E4E4E4" x="42.5" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-39" fill="#E4E4E4" x="81.4678899" y="60" width="17.6146789" height="5"></rect>
+                <rect id="矩形复制-14" fill="#E4E4E4" x="3.30275229" y="70" width="35.2293578" height="12.5"></rect>
+                <rect id="矩形复制-17" fill="#E4E4E4" x="42.9357798" y="70" width="35.2293578" height="12.5"></rect>
+                <rect id="矩形复制-40" fill="#E4E4E4" x="81.4678899" y="70" width="35.2293578" height="12.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
